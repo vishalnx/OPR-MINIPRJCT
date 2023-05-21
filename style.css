@@ -1,0 +1,13 @@
+h1{
+color:aqua;
+text-align: center;
+}
+.BUTTON{
+    background-color:darkgrey;
+    
+}
+#DIV{display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+}
